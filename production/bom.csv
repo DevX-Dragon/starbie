@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_D5.0mm,1,LED,
+J1,128x64OLED,1,OLED,
+J2,PinHeader_1x08_P2.54mm_Vertical,1,MPU6050,
+R1,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,10k,
+"SW1, SW2, SW3, SW4",SW_Cherry_MX_1.00u_PCB,4,SW_Push,
+U1,XIAO-ESP32C3-SMD,1,XIAO-ESP32-C3-SMD,
+U2,Aosong_DHT11_5.5x12.0_P2.54mm,1,DHT11,
